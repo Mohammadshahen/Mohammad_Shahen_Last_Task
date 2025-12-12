@@ -1,6 +1,6 @@
 ## 📸 معاينة المشروع
 
-### Users
+### المستخدمين
 
 #### 1. صفحة المدونات  
 ![Frontend Glog Page](screenshots/frontend_blog.png)
@@ -8,7 +8,7 @@
 #### 2. صفحة  المفضلة 
 ![Favorites Page](screenshots/Frontend_favorites.png)
 
-### Admin
+### الادمن
 
 #### 1. قائمة المدونات   
 ![Blogs List](screenshots/Admin_blogs.png)
@@ -29,6 +29,6 @@
 ### 4. php artisan ser
 
 
-##   ** ِAdmin info **
+##   ** معلومات الادمن **
 ### Email : admin@gmail.com
 ### password : 12345678
